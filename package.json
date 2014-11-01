@@ -1,0 +1,18 @@
+{
+  "name": "press_release",
+  "version": "0.0.3",
+  "description": "Translate your message into 80+ languages.",
+  "author": "Khalid Shaikh",
+  "dependencies": {
+    "request": ">0"
+  },
+  "bin": {
+    "press_release": "index.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
